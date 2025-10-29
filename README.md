@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project analyzes company sales data to generate key business insights using **Power BI**.  
-It helps visualize performance trends, identify top-performing products, and understand sales patterns across time, cities, and categories.
+It helps visualize performance trends, identify top-performing products, and understand sales patterns across time, cities, and discount categories.
 
 ## 🔍 Key Insights & Features
 1. **Top & Bottom 5 Products** by Sales, Profit, and Quantity Sold  
@@ -16,14 +16,14 @@ It helps visualize performance trends, identify top-performing products, and und
 
 ## 🧰 Tools & Technologies
 - **Power BI**
-- **Excel (for data cleaning)**
+- **Power Query** (for data cleaning and transformation)
 - **DAX Measures**
 - **Data Modeling (Star Schema)**
 
 ## 📈 Outcomes
-- Improved understanding of key product performance
-- Insights into sales profitability and discount strategies
-- Fully interactive, filterable dashboard for management use
+- Automated data cleaning and transformation within Power BI  
+- Dynamic and interactive dashboard with multiple slicers and filters  
+- Clear visualization of business KPIs to support data-driven decisions  
 
 ## 📂 Files
 - `Sales_Dashboard.pbix` → Power BI dashboard  
@@ -32,4 +32,4 @@ It helps visualize performance trends, identify top-performing products, and und
 
 ## 👨‍💻 Author
 **Yash Kanchan**  
-*Data Analytics Ent*
+*Data Analytics Enthusiast | Power BI Developer*
